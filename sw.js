@@ -1,8 +1,8 @@
 // Change this to your repository name
-var GHPATH = '/timopheykuznetsov.github.io';
+var GHPATH = 'https://timopheykuznetsov.github.io';
 
 // Choose a different app prefix name
-var APP_PREFIX = 'gppwa_';
+var APP_PREFIX = 'mirpwa_';
 
 // The version of the cache. Every time you change any of the files
 // you need to change this version (version_01, version_02…). 
