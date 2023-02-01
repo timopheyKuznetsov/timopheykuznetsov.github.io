@@ -1,10 +1,18 @@
 {
   "name": "Mir NDEF",
   "short_name": "MNDEF",
+  "description": "Test Progressive Web App",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "/timopheykuznetsov.github.io/",
-  "start_url": "/timopheykuznetsov.github.io/"
+  "start_url": "/timopheykuznetsov.github.io/",
+  "icons": [
+      {
+        "src": "/github-page-pwa/img/icon.png",
+        "type": "image/png",
+        "sizes": "700x700"
+      }
+  ]
 }
