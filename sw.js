@@ -1,5 +1,5 @@
 // Change this to your repository name
-var GHPATH = '/github-page-pwa';
+var GHPATH = '/timopheykuznetsov.github.io';
 
 // Choose a different app prefix name
 var APP_PREFIX = 'gppwa_';
